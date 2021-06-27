@@ -1,6 +1,6 @@
 
 # stock-analysis
-# Excel VBA of Wall Street Challenge 2 by Kieran Persaud
+# VBA of Wall Street: Challenge 2 by Kieran Persaud
 ## Overview of Project
 
 Steve wanted to prepare a macro-enabled workbook that analyzes the performance of green energy stocks for 2 years worth of data. The VBA code originally written provides this information with a click of a button. The original code provided a formatted table of volume and returns for 12 stocks based on the year the user entered. 
