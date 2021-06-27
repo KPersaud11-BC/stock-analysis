@@ -39,8 +39,29 @@ In both cases, the Refactored Macro ran faster than the original Macro. This was
 
 #### 2017 Comparison
 
+<table>
+  <tr>
+    <td>Original</td>
+     <td>Refactored</td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/84286467/123562172-ef8e6280-d77a-11eb-9840-dcca4c5d69f8.PNG" width=500 height= 250></td>
+    <td><img src="https://user-images.githubusercontent.com/84286467/123562190-19478980-d77b-11eb-846a-2420bf3cc2e1.PNG" width=500 height=250></td>
+  </tr>
+ </table>
 
 #### 2018 Comparison
+
+<table>
+  <tr>
+    <td>Original</td>
+     <td>Refactored</td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/84286467/123562249-8529f200-d77b-11eb-8090-5531f29c786e.PNG" width=500 height= 250></td>
+    <td><img src="https://user-images.githubusercontent.com/84286467/123562262-9672fe80-d77b-11eb-996a-bda317922637.PNG" width=500 height=250></td>
+  </tr>
+ </table>
 
 ## Summary
 ### Advantages and Disadvantages of Refactoring Code
