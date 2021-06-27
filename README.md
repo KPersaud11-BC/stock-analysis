@@ -1,3 +1,4 @@
+
 # stock-analysis
 # Excel VBA of Wall Street Challenge 2 by Kieran Persaud
 ## Overview of Project
@@ -17,12 +18,16 @@ The output of both Macros show that Green Energy stocks performed significantly 
 The pictures below show that both Macros outputted the same results. 
 
 2017 Original
+![Module_Code_Output2017](https://user-images.githubusercontent.com/84286467/123561395-19915600-d776-11eb-939d-7473b3e2b628.PNG)
 
 2017 Refactored
+![VBA_Challenge_Output2017](https://user-images.githubusercontent.com/84286467/123561415-2ca42600-d776-11eb-90df-0fc1fe55165b.PNG)
 
 2018 Original
+![Module_Code_Output2017](https://user-images.githubusercontent.com/84286467/123561430-45acd700-d776-11eb-8387-5aaabba5401b.PNG)
 
 2018 Refactored
+![VBA_Challenge_Output2018](https://user-images.githubusercontent.com/84286467/123561435-50676c00-d776-11eb-97c7-8aabe1e17247.PNG)
 
 ### Comparison of Run Times 
 
