@@ -15,7 +15,7 @@ The output of both Macros show that Green Energy stocks performed significantly 
 
 ### Comparison of Outputs from Original and Refactored Macros
 
-The pictures below show that both Macros outputted the same results. 
+The pictures below show that both Macros outputted the same results. The workbook has a _Clear Worksheet_ Macro that was used to clear the worksheet and allow both codes to run fully.
 
 **2017 Original**
 
